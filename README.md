@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">🌐 zerachxyz</h1>
+<p align="center">
+  <b>Personal portfolio website built with Python</b>
+</p>
 
-<!--
-**zerachxyz/zerachxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web-App-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📖 About
+
+**zerachxyz** is my personal portfolio website built with Python.
+It showcases my projects, skills, and experience as a web developer.
+
+---
+
+## ✨ Features
+
+- 🏠 Clean and modern home page
+- 📁 Projects showcase section
+- 🧰 Skills & tech stack display
+- 📬 Contact section
+- 📱 Fully responsive design
+
+---
+
+## 🚀 Installation
+```bash
