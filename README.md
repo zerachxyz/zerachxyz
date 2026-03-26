@@ -28,6 +28,3 @@ It showcases my projects, skills, and experience as a web developer.
 - 📱 Fully responsive design
 
 ---
-
-## 🚀 Installation
-```bash
